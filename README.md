@@ -14,7 +14,7 @@ Built to practice basic programming concepts like loops, conditionals, and funct
 
 ---
 
-## 🕹 How to Play
+##  How to Play
 1. Run the Python file
 2. Players enter row and column numbers (1-3)
 3. The board updates after every move
@@ -22,7 +22,7 @@ Built to practice basic programming concepts like loops, conditionals, and funct
 
 ---
 
-## 📌 Requirements
+##  Requirements
 - Python 3.x
 
 Run the game using:
