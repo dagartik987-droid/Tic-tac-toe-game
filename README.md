@@ -1,11 +1,11 @@
-# 🎮 Tic Tac Toe Game (Python)
+#Tic Tac Toe Game
 
 A simple **two-player console Tic-Tac-Toe game** written in Python.  
 Built to practice basic programming concepts like loops, conditionals, and functions.
 
 ---
 
-## 🚀 Features
+## Features
 - Two-player turn-based gameplay (`X` and `O`)
 - Valid move checking
 - Win detection (rows, columns, diagonals)
